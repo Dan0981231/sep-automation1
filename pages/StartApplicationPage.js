@@ -93,5 +93,6 @@ export class StartApplicationPage extends BasePage {
     this.originalPrice = page.locator("//s[contains(.,'$')]");
   }
   //123 test
+  //comment 234
 }
 
