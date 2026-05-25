@@ -92,5 +92,6 @@ export class StartApplicationPage extends BasePage {
     this.discountedPrice = page.locator("//b[@class='info-primary']");
     this.originalPrice = page.locator("//s[contains(.,'$')]");
   }
+  //comment 234
 }
 
